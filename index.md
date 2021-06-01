@@ -6,7 +6,7 @@ Some Projects
 - Mobile Computing coursework to create an andorid application that utilised a 3rd indoor location detection library to display indoor location and react to predefined geofences
   https://github.com/hmann07/AndroidMUC-Coursework
 
-- Code related to a mix of languages. Artifical Neural Network using backpropagation written in Node.js. Python code related to coursework to write map-reduce jobs in EMR.     standard code exercises (fib etc..) in prolog.
+- Code related to a mix of languages. Artifical Neural Network using backpropagation written in Node.js. Python code related to coursework to write map-reduce jobs in EMR.     standard code exercises (fib etc..) in prolog. https://github.com/hmann07/progLang
 
 
 
