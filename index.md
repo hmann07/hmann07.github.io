@@ -11,7 +11,7 @@
 
 - In spare time playing around with Geographical data in 3d tools and game engines. Some renders and screenshots below.
 
-Environment Agency Lidar combined with open streemap data. Using FME, QGIS and Blender
+Environment Agency Lidar combined with open street map data. Trees tagged in open street map have been added. Used FME, QGIS and Blender
 ![image](https://user-images.githubusercontent.com/26671404/120347944-01f0ba00-c2fd-11eb-81c0-0d437089d88e.png)
 
 London lit up using data from open streetmap to place lights where pubs exist.  FME and Blender
