@@ -1,7 +1,9 @@
 
 ## Projects
-- MSC Project using the actor model to construct and evolve artifical neural neworks. Based on the NEAT and HyperNeat methodologies.
+- MSc Project using the actor model to construct and evolve artifical neural neworks. Based on the NEAT and HyperNeat methodologies.
   <https://github.com/hmann07/project>
+  
+- Extension of MSc project to dockerise, write using FSM api, include a react.js / websocket based front end and ustilise mongoDB for managing neural network representations and results <https://github.com/hmann07/thingy>
   
 - Mobile Computing coursework to create an andorid application that utilised a 3rd indoor location detection library to display indoor location and react to predefined geofences.
   <https://github.com/hmann07/AndroidMUC-Coursework>
