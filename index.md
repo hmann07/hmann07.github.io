@@ -1,5 +1,5 @@
 
-Some Projects
+Projects
 - MSC Project using the actor model to construct and evolve artifical neural neworks. Based on the NEAT and HyperNeat methodologies.
   https://github.com/hmann07/project
   
@@ -9,9 +9,7 @@ Some Projects
 - Code related to a mix of languages. Artifical Neural Network using backpropagation written in Node.js. Python code related to coursework to write map-reduce jobs in EMR.     standard code exercises (fib etc..) in prolog. https://github.com/hmann07/progLang
 
 
-
-
-
+- In spare time playing around with Geographical data in 3d tools and game engines. Some renders and screenshos below
 
 Environment Agency Lidar combined with open streemap data
 ![image](https://user-images.githubusercontent.com/26671404/120347944-01f0ba00-c2fd-11eb-81c0-0d437089d88e.png)
