@@ -3,7 +3,7 @@
 - MSc Project using the actor model to construct and evolve artifical neural neworks. Based on the NEAT and HyperNeat methodologies.
   <https://github.com/hmann07/project>
   
-- Rewrite of MSc project to dockerise, write using Akka's FSM api, a front end using Play / react.js / d3.js / websockets and mongoDB for managing neural network representations and evolution results <https://github.com/hmann07/thingy>
+- Rewrite of MSc project to dockerize, write using Akka's FSM api, update front end using Play / react.js / d3.js / websockets and use mongoDB for managing neural network representations and evolution results in json format <https://github.com/hmann07/thingy>
   
 - Mobile Computing coursework to create an andorid application that utilised a 3rd indoor location detection library to display indoor location and react to predefined geofences.
   <https://github.com/hmann07/AndroidMUC-Coursework>
