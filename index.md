@@ -6,3 +6,6 @@ London lit up using data from open streetmap to place lights where pubs exist
 
 Pharmacies in Huddersfield. Open Data from Ordnance Survey
 ![image](https://user-images.githubusercontent.com/26671404/120348405-73306d00-c2fd-11eb-864d-e5d8f92e48d8.png)
+
+Links indicating movements between countries
+![image](https://user-images.githubusercontent.com/26671404/120349027-0669a280-c2fe-11eb-9cc1-dd9aaae8dfa4.png)
