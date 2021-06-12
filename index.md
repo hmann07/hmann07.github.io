@@ -20,11 +20,12 @@ London lit up using data from open streetmap to place lights where pubs exist.  
 ![image](https://user-images.githubusercontent.com/26671404/120348156-35334900-c2fd-11eb-985c-0169e8171520.png)
 
 London lit by trees.. and projected on my coffee table. (low res version)
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://user-images.githubusercontent.com/26671404/121789711-669ef500-cbd8-11eb-8137-1863d0329751.mp4" type="video/mp4">
-   </video>
-</figure>
+<iframe width="560" height="315"
+src="https://user-images.githubusercontent.com/26671404/121789711-669ef500-cbd8-11eb-8137-1863d0329751.mp4" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 
 
 
