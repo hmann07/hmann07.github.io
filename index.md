@@ -19,6 +19,12 @@ Environment Agency Lidar combined with open street map data. Trees tagged in ope
 London lit up using data from open streetmap to place lights where pubs exist.  FME and Blender
 ![image](https://user-images.githubusercontent.com/26671404/120348156-35334900-c2fd-11eb-985c-0169e8171520.png)
 
+London lit by trees.. and projected on my coffee table. (low res version)
+![video](https://user-images.githubusercontent.com/26671404/121789711-669ef500-cbd8-11eb-8137-1863d0329751.mp4)
+
+
+
+
 Pharmacies in Huddersfield. Open Data from Ordnance Survey. QGIS and Blender
 ![image](https://user-images.githubusercontent.com/26671404/120348405-73306d00-c2fd-11eb-864d-e5d8f92e48d8.png)
 
