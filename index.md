@@ -19,8 +19,7 @@ Environment Agency Lidar combined with open street map data. Trees tagged in ope
 London lit up using data from open streetmap to place lights where pubs exist.  FME and Blender
 ![image](https://user-images.githubusercontent.com/26671404/120348156-35334900-c2fd-11eb-985c-0169e8171520.png)
 
-London lit by trees.. and projected on my coffee table. (low res version)
-
+London lit by trees tagged in OSM.. and projected on my coffee table. (low res version)
 <video width="720" height="540" controls>
   <source type="video/mp4" src="https://user-images.githubusercontent.com/26671404/121789876-001ad680-cbda-11eb-8562-de58174e3613.mp4">
 </video>
