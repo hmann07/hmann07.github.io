@@ -22,6 +22,10 @@ London lit up using data from open streetmap to place lights where pubs exist.  
 London lit by trees.. and projected on my coffee table. (low res version)
 ![Access video here](https://user-images.githubusercontent.com/26671404/121789876-001ad680-cbda-11eb-8562-de58174e3613.mp4)
 
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://user-images.githubusercontent.com/26671404/121789876-001ad680-cbda-11eb-8562-de58174e3613.mp4">
+</video>
+
 Pharmacies in Huddersfield. Open Data from Ordnance Survey. QGIS and Blender
 ![image](https://user-images.githubusercontent.com/26671404/120348405-73306d00-c2fd-11eb-864d-e5d8f92e48d8.png)
 
